@@ -6,20 +6,23 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.rogers.customview.RecShapeTextView
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="100dp"
-        android:layout_marginEnd="100dp"
-        android:gravity="center"
-        android:padding="12dp"
-        android:text="1111111"
-        app:radiusCorner="16dp"
-        android:textColor="@color/white"
-        app:colorFill="@color/design_default_color_primary"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+<!--    <com.rogers.customview.RecShapeTextView-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginStart="100dp"-->
+<!--        android:layout_marginEnd="100dp"-->
+<!--        android:gravity="center"-->
+<!--        android:padding="12dp"-->
+<!--        android:text="1111111"-->
+<!--        app:radiusCorner="16dp"-->
+<!--        android:textColor="@color/white"-->
+<!--        app:colorFill="@color/design_default_color_primary"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
